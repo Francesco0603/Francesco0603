@@ -34,16 +34,13 @@ Attualmente sto approfondendo il mondo del **front-end, back-end** e delle **app
 
 ## 🚀 Progetti in evidenza
 
-### 🔹 [AI Sentiment Analyzer](https://github.com/francesco0603/ai-sentiment-analyzer)
+### 🔹 [In arrivo](https://github.com/francesco0603)
 Sistema in **Python** con modello di machine learning per analizzare il sentiment di recensioni testuali.  
-🧠 Librerie: scikit-learn, pandas, matplotlib.
+🧠 Librerie: ...
 
-### 🔹 [Task Manager Web App](https://github.com/francesco0603/todo-list-react)
+### 🔹 [In arrivo](https://github.com/francesco0603)
 Applicazione **React + Node.js** per gestire attività e liste in modo interattivo.  
 🎨 Responsive design con Bootstrap.
-
-### 🔹 [Data Dashboard](https://github.com/francesco0603/data-dashboard-html-css)
-Interfaccia **HTML/CSS/JS** per la visualizzazione di dati aziendali con grafici interattivi.
 
 ---
 
@@ -56,7 +53,7 @@ Interfaccia **HTML/CSS/JS** per la visualizzazione di dati aziendali con grafici
 
 ## 📫 Contatti
 📧 **francesco.pusceddu@example.com**  
-💼 [LinkedIn](https://linkedin.com/in/francescopusceddu)  
+💼 [LinkedIn](www.linkedin.com/in/francesco-pusceddu-353673354)  
 🌐 [Portfolio](https://francescopusceddu.github.io) *(in arrivo)*  
 
 ---
