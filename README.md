@@ -54,7 +54,7 @@ Applicazione **React + Node.js** per gestire attività e liste in modo interatti
 ## 📫 Contatti
 📧 **francesco.pusceddu@example.com**  
 💼 [LinkedIn](https://www.linkedin.com/in/francesco-pusceddu-353673354/)  
-🌐 [Portfolio](https://francescopusceddu.github.io) *(in arrivo)*  
+🌐 [Portfolio](https://francesco0603.github.io)  
 
 ---
 
