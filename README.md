@@ -95,14 +95,6 @@ Applicazione in **Python (Flet + Pandas + SQLite)** per l'analisi dei social net
 
 ---
 
-### 🔹 [Guess Who? Game](https://github.com/Francesco0603/GuessWho)
-
-Applicazione web sviluppata con **React + Bootstrap**, ispirata al classico gioco *Indovina chi?*.
-
-🎨 Interfaccia responsive, sistema dinamico di schede e animazioni fluide.
-
----
-
 ## 🎯 Interessi attuali
 
 - 🤖 Artificial Intelligence & Machine Learning
